@@ -1,7 +1,7 @@
 // Put all your page JS here
 
 $(function () {
-  $.getJSON('quiz.json', function(data) {
+  $.getJSON('js/quiz.json', function(data) {
     $('#slickQuiz').slickQuiz({json: data});
   });
 });
