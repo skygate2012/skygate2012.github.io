@@ -1,0 +1,589 @@
+{
+  "info": {
+    "name": "測試你的知識水平",
+    "main": "<h4>测试是检验蛤丝的唯一标准！测试你到底是不是真正的蛤丝。</h4>",
+    "level1": "这是最好的，快去免费<a href=\"javascript:void(0)\" onclick=\"window.open('hp.html','','width=700, height=700, toolbar=no, status=no, menubar=no, resizable=yes, scrollbars=yes');return false;\">领取蛤啤</a>吧！",
+    "level2": "你们非常熟悉长者的那一套理论，但你们毕竟还 Too Young！",
+    "level3": "我觉得你们蛤丝界还是要学习一个。",
+    "level4": "连这些都不识得还说自己是蛤丝？",
+    "level5": "你呀，Naive！"
+  },
+  "questions": [
+    {
+      "q": "______国的华莱士，比你们不知高到哪里去了！",
+      "a": [
+        {
+          "option": "美",
+          "correct": true
+        },
+        {
+          "option": "英",
+          "correct": false
+        },
+        {
+          "option": "法",
+          "correct": false
+        },
+        {
+          "option": "中",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span></p>"
+    },
+    {
+      "q": "每次碰到你们，我就想到—中国有句古话叫做“______”。",
+      "a": [
+        {
+          "option": "闷声发大财",
+          "correct": true
+        },
+        {
+          "option": "祸从口出",
+          "correct": false
+        },
+        {
+          "option": "沉默是金",
+          "correct": false
+        },
+        {
+          "option": "闷声大发财",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>闷声发大财</p>"
+    },
+    {
+      "q": "在『怒斥香港记者』中，长者都说了哪些英文？",
+      "a": [
+        {
+          "option": "Sometimes Naive!",
+          "correct": true
+        },
+        {
+          "option": "That Is A Big Mistake!",
+          "correct": false
+        },
+        {
+          "option": "I Am Angry!",
+          "correct": true
+        },
+        {
+          "option": "Too Young, Too Simple.",
+          "correct": true
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>I Am Angry! 你们这样是不行的！我今天算是得罪了你们一下。</p>"
+    },
+    {
+      "q": "我就什么话也不说，这是<span class=\"i\">最</span>好的！（红字的拼音）",
+      "a": [
+        {
+          "option": "zuì",
+          "correct": false
+        },
+        {
+          "option": "zhuì",
+          "correct": true
+        },
+        {
+          "option": "zì",
+          "correct": false
+        },
+        {
+          "option": "zuí",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>我就什么话也不说，这是坠好的！</p>"
+    },
+    {
+      "q": "华莱士的全名是？",
+      "a": [
+        {
+          "option": "Mike Wallace",
+          "correct": true
+        },
+        {
+          "option": "Michael Wallace",
+          "correct": false
+        },
+        {
+          "option": "Mickey Hallice",
+          "correct": false
+        },
+        {
+          "option": "Max Hualesh",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>Mike Wallace</p>"
+    },
+    {
+      "q": "所以说媒体啊，还是要提高自己的______水平！",
+      "a": [
+        {
+          "option": "知识",
+          "correct": true
+        },
+        {
+          "option": "膜蛤",
+          "correct": false
+        },
+        {
+          "option": "报导",
+          "correct": false
+        },
+        {
+          "option": "采访",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>所以说媒体啊，还是要提高自己的姿肆水平！</p>"
+    },
+    {
+      "q": "我有这个必要告诉你们一点，______的经验。",
+      "a": [
+        {
+          "option": "人生",
+          "correct": true
+        },
+        {
+          "option": "采访",
+          "correct": false
+        },
+        {
+          "option": "谈笑",
+          "correct": false
+        },
+        {
+          "option": "膜蛤",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>我有这个必要告诉你们一点，人生的经验。</p>"
+    },
+    {
+      "q": "你们不要总是想，弄那么个______",
+      "a": [
+        {
+          "option": "大新闻",
+          "correct": true
+        },
+        {
+          "option": "小道消息",
+          "correct": false
+        },
+        {
+          "option": "爆炸性新闻",
+          "correct": false
+        },
+        {
+          "option": "小新闻",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>大新闻！</p>"
+    },
+    {
+      "q": "你们给我搞的这本东西，______",
+      "a": [
+        {
+          "option": "Excited!",
+          "correct": true
+        },
+        {
+          "option": "Naive!",
+          "correct": false
+        },
+        {
+          "option": "Splendid!",
+          "correct": false
+        },
+        {
+          "option": "Interesting!",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>你们给我搞的这本东西，Excited！</p>"
+    },
+    {
+      "q": "你们呐，______",
+      "a": [
+        {
+          "option": "Naive!",
+          "correct": true
+        },
+        {
+          "option": "Sometimes Naive!",
+          "correct": false
+        },
+        {
+          "option": "Native!",
+          "correct": false
+        },
+        {
+          "option": "Naiwu!",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span>你们呐，Naive！</p>",
+      "incorrect": "<p><span>［错误］</span> </p>"
+    },
+    {
+      "q": "长者与华莱士谈笑风生了多长时间？",
+      "a": [
+        {
+          "option": "60min",
+          "correct": true
+        },
+        {
+          "option": "120min",
+          "correct": false
+        },
+        {
+          "option": "80min",
+          "correct": false
+        },
+        {
+          "option": "20min",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>President Jang Zemin, Conducted by Mike Wallace of the CBS program 60 minutes.</p>"
+    },
+    {
+      "q": "长者在『与华莱士谈笑风生』里背诵了哪篇演讲？",
+      "a": [
+        {
+          "option": "Gettysburg Address",
+          "correct": true
+        },
+        {
+          "option": "I Have a Dream",
+          "correct": false
+        },
+        {
+          "option": "We Shall Overcome",
+          "correct": false
+        },
+        {
+          "option": "The Ballot or the Bullet",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>Four score and seven years ago our fathers brought forth, upon this continent, a new nation, conceived in liberty, and dedicated to the proposition that \"all men are created equal\"</p>"
+    },
+    {
+      "q": "你们非常熟悉西方的那一套理论，但你们毕竟还______！",
+      "a": [
+        {
+          "option": "Too Young",
+          "correct": true
+        },
+        {
+          "option": "Too Simple",
+          "correct": false
+        },
+        {
+          "option": "Naive",
+          "correct": false
+        },
+        {
+          "option": "Too Naive",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>I hope to convey through your program, my best wishes to the American people.</p>"
+    },
+    {
+      "q": "在『与华莱士谈笑风生』里长者对华莱士说大学时看过哪些电影？",
+      "a": [
+        {
+          "option": "《魂断蓝桥》，《出水芙蓉》，《青山翠谷》",
+          "correct": true
+        },
+        {
+          "option": "《青山翠谷》，《壮志千秋》，《一夜风流》",
+          "correct": false
+        },
+        {
+          "option": "《窈窕淑女》，《浮生若梦》，《乱世春秋》",
+          "correct": false
+        },
+        {
+          "option": "《公民凯恩》，《乱世佳人》，《浮生若梦》",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>见『与华莱士谈笑风生』完整版35分钟处左右</p>"
+    },
+    {
+      "q": "在『与华莱士谈笑风生』里华莱士是如何称呼长者的？",
+      "a": [
+        {
+          "option": "Mr. President",
+          "correct": true
+        },
+        {
+          "option": "President Jiang Zemin",
+          "correct": false
+        },
+        {
+          "option": "Chairman Jiang",
+          "correct": false
+        },
+        {
+          "option": "Mr. Jiang",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>Mr. President</p>"
+    },
+    {
+      "q": "在『与华莱士谈笑风生』里华莱士是如何描述长者的？",
+      "a": [
+        {
+          "option": "A needle wrapped in silk",
+          "correct": true
+        },
+        {
+          "option": "Invisible silk needles",
+          "correct": false
+        },
+        {
+          "option": "Silk hiding needle",
+          "correct": false
+        },
+        {
+          "option": "Needle hidden in silk",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span> </p>"
+    },
+    {
+      "q": "华莱士：A developed mental dictatorship, is what we believed it is. Am I wrong? ",
+      "a": [
+        {
+          "option": "长者：Of course, this is big mistake.",
+          "correct": true
+        },
+        {
+          "option": "长者：Of course you are wrong.",
+          "correct": false
+        },
+        {
+          "option": "长者：This is big mistake, you are wrong.",
+          "correct": false
+        },
+        {
+          "option": "长者：Absolutely, this is big mistake.",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>Of course, this is big mistake.</p>"
+    },
+    {
+      "q": "董先生连任好不好呀？",
+      "a": [
+        {
+          "option": "好啊！",
+          "correct": true
+        },
+        {
+          "option": "当然了！",
+          "correct": false
+        },
+        {
+          "option": "你问我好不好，当然好！",
+          "correct": false
+        },
+        {
+          "option": "当然好了！",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>好啊！</p>"
+    },
+    {
+      "q": "我可是______了！",
+      "a": [
+        {
+          "option": "身经百战",
+          "correct": true
+        },
+        {
+          "option": "身经一战",
+          "correct": false
+        },
+        {
+          "option": "身经二战",
+          "correct": false
+        },
+        {
+          "option": "身经万战",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>我可是身经百战了！见得多了！</p>"
+    },
+    {
+      "q": "刚才你问我啊，我可以回答你一句「______」",
+      "a": [
+        {
+          "option": "无可奉告",
+          "correct": true
+        },
+        {
+          "option": "不告诉你",
+          "correct": false
+        },
+        {
+          "option": "No comment",
+          "correct": false
+        },
+        {
+          "option": "闷声发大财",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>刚才你问我啊，我可以回答你一句「无可奉告」。但是你们又不高兴，我怎么办？</p>"
+    },
+    {
+      "q": "任何事情，也是要按照______，______去产生。",
+      "a": [
+        {
+          "option": "基本法，选举法",
+          "correct": true
+        },
+        {
+          "option": "选举法，基本法",
+          "correct": false
+        },
+        {
+          "option": "共产法，钦点法",
+          "correct": false
+        },
+        {
+          "option": "基本法，总统法",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>基本法，选举法</p>"
+    },
+    {
+      "q": "他现在当特首我们怎么能不<span class=\"i\">支持</span>特首？（红字的拼音）",
+      "a": [
+        {
+          "option": "zī cí",
+          "correct": true
+        },
+        {
+          "option": "zǐ cí",
+          "correct": false
+        },
+        {
+          "option": "zhì ci",
+          "correct": false
+        },
+        {
+          "option": "zhī chí",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span> </p>"
+    },
+    {
+      "q": "长者的生日是？",
+      "a": [
+        {
+          "option": "8月17日",
+          "correct": true
+        },
+        {
+          "option": "6月28日",
+          "correct": false
+        },
+        {
+          "option": "11月3日",
+          "correct": false
+        },
+        {
+          "option": "4月12日",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>生于１９２６年８月１７日，江苏省扬州市人。【http://www.china.com.cn/chinese/archive/128277.htm】</p>"
+    },
+    {
+      "q": "<img src=\"http://imgur.com/alMaPlr.png\" alt=\"frankly\" /><br>此时长者在说什么？",
+      "a": [
+        {
+          "option": "但是你们又不高兴，我怎么办？",
+          "correct": true
+        },
+        {
+          "option": "我可以回答你一句「无可奉告」",
+          "correct": false
+        },
+        {
+          "option": "不要总是喜欢弄那么个大新闻！",
+          "correct": false
+        },
+        {
+          "option": "你问我支持不支持，我说支持。",
+          "correct": false
+        }
+      ],
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>你问我支持不支持，我说支持，但是你们又不高兴，我怎么办？</p>"
+    },
+    {
+      "q": "\"Understood?\" 翻译成中文应该是",
+      "a": [
+        {
+          "option": "懂了没有啊？",
+          "correct": true
+        },
+        {
+          "option": "识得唔识得嘎？",
+          "correct": true
+        },
+        {
+          "option": "知道吗？",
+          "correct": false
+        },
+        {
+          "option": "明白了吗？",
+          "correct": false
+        }
+      ],
+      "select_any": true,
+      "correct": "<p><span>［正确］</span></p>",
+      "incorrect": "<p><span>［错误］</span>懂了没有啊？识得唔识得嘎？</p>"
+    }
+  ]
+}
